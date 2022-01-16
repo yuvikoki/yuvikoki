@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS Devops solution architect
 - 🔑 key skills- Linux , AWS(IAM,EC2,LOADBALANCER,AUTO SCALING,VPC, WEBSITE HOSTING,TCP/IP,NAT,PEERING, MIGRATION,CLOUDWATCH,S3,KMS,LAMBDA,CLOUDFORMATION)
 - 🧠 knowledge- python , devops(ansible,terraform,github,jenkins,docker,kubernatives) ,RDBS
-- 🌱 I’m currently finished BCA (bachelor of computer application) please take a look on my resume which is attached.......!
+- 🌱 I’m finished BCA (bachelor of computer application) please take a look on my resume which is attached.......!
 - 💞️ I’m looking to collaborate on cloud organization
 - 📫 reach me via gmail yuvikoki2001@gmail.com or mobile-8778576688
 
